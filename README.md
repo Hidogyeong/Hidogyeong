@@ -18,6 +18,7 @@ My previous research explored wearable radar–IMU sensor fusion for hand gestur
 
 - **Python and PyTorch:** data processing, model training, and experimental evaluation
 - **C++ and OpenFHE:** CKKS-based federated learning experiments
+- **Verilog:** RTL design of digital circuits
 - **Linux and Git:** research workflows and code management
 
 ## Selected project
