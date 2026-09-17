@@ -2,7 +2,7 @@
 
 **Ph.D. Student at Sejong University, South Korea**
 
-[Google Scholar](https://scholar.google.com/citations?user=8SUaCMkAAAAJ&hl=en)
+[Website](https://hidogyeong.github.io/) · [Google Scholar](https://scholar.google.com/citations?user=8SUaCMkAAAAJ&hl=en)
 
 I study fully homomorphic encryption (FHE), with a focus on CKKS and privacy-preserving federated learning. I am also interested in secure multi-party computation (MPC) and private machine learning inference.
 
