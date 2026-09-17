@@ -18,10 +18,10 @@ My previous research explored wearable radar–IMU sensor fusion for hand gestur
 
 - **Python and PyTorch:** data processing, model training, and experimental evaluation
 - **C++ and OpenFHE:** CKKS-based federated learning experiments
-- **Verilog:** RTL design of digital circuits
 - **Linux and Git:** research workflows and code management
+- **Verilog (earlier experience):** FPGA image-processing datapaths and digital logic design
 
-## Selected project
+## Selected projects
 
 ### Wearable radar–IMU hand gesture recognition
 
@@ -30,3 +30,9 @@ My previous research explored wearable radar–IMU sensor fusion for hand gestur
 Research code archive for wearable hand gesture recognition using radar–IMU fusion, with experiments on head-motion robustness and limited training labels. Includes data processing, training, and evaluation code.
 
 [Explore the code and documentation →](https://github.com/Hidogyeong/Label-efficient-head-motion-robust-wearable-radar-HGR-via-motion-domain-radar-IMU-fusion)
+
+### FPGA camera-to-LCD image processing — earlier project
+
+An earlier Verilog project covering pixel packing, RGB–YCbCr conversion, line buffering, and luminance enhancement. C and MATLAB prototypes were used for algorithm checks before RTL implementation.
+
+[Explore the FPGA project →](https://github.com/Hidogyeong/FPGA-Camera-Image-Processing)
